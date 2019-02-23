@@ -1,0 +1,7 @@
+administrator
+file.php
+data
+dashboard
+cgi-bin
+admin
+check.html
